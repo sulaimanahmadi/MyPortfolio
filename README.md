@@ -27,10 +27,10 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  
   <br/>
 
-  <h3><b>Hello Microverse</b></h3>
+  <h3><b>My Portfolio<b></h3>
 
 </div>
 
@@ -60,12 +60,12 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [My Portfolio] <a name="about-project"></a>
 
 
-This is my first Microverse project.
-which is about Hello Microverse.
-**[HelloMicroverse]** is a...
+This is my Second Microverse project.
+which is about My Portfolio.
+**[My Portfolio]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 :Html
@@ -99,23 +99,10 @@ Client
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[Linters]**
 - **[Html]**
 - **[CSS]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -189,8 +176,7 @@ Example command:
 --->
 
 ### Deployment
-
-You can deploy this project using:
+This Project is not Deployed
 
 <!--
 Example:
@@ -200,13 +186,9 @@ Example:
 ```
  -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="Sulaiman ahmadi"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -214,20 +196,14 @@ Example:
 - Twitter: [Sulaiman Ahamdi](https://twitter.com/sahmadi4all)
 - LinkedIn: [Sulaiman Ahmadi](https://www.linkedin.com/in/mohammad-sulaiman-ahmadi-555315261/)
 
-👤 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Javascript]**
 - [ ] **[React]**
 - [ ] **[Bootstrap]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -237,33 +213,25 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 
-Work my first project as a Micronaut. Feeling amazed with starting Microverse.
+Work my second project as a Micronaut. Feeling amazed with starting Microverse.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my friends and family to have me back financialy and mentaly.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[How to start the project]**
 
@@ -273,7 +241,6 @@ I would like to thank my friends and family to have me back financialy and menta
 
   - [this project is use in Visual Studio Code]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
