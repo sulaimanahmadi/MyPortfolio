@@ -268,7 +268,7 @@ p {
 }
 
 .work-display {
-  display: flex;
+  display: grid;
   flex-direction: column;
   gap: 24px;
 }
@@ -316,10 +316,6 @@ p {
 }
 
 .work2-content ul {
-  /* display: flex;
-  gap: 12px;
-  list-style-type: none; */
-
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -335,7 +331,7 @@ p {
 .work2-content li {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: right;
   padding: 8px 10px;
   width: 67px;
   height: 30px;
@@ -347,16 +343,15 @@ p {
 }
 
 .work2-content ul li {
-  text-decoration: none;
-  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
   padding: 8px;
-  border: 1px solid black;
-  font-family: "Poppins", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 20px;
-  background-color: #ffffff3d;
+  width: 60px;
+  height: 25px;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
 }
 
 .work2-button button {
@@ -465,6 +460,7 @@ p {
   display: grid;
   justify-content: center;
   gap: 44px;
+  list-style: none;
 }
 
 .about-me-2 .topic {
@@ -501,6 +497,7 @@ p {
   align-items: center;
   list-style: none;
   margin-left: 80px;
+  margin-top: 15px;
 }
 
 .about-me-2 .topic > p {
