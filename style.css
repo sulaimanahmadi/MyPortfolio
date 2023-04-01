@@ -287,7 +287,7 @@ p {
   padding: 0 12px 0 12px;
 }
 
-.work2-content > h1 {
+.work2-content > h2 {
   margin-top: 84px;
   font-family: "Crete Round", serif;
   font-size: 32px;
@@ -299,7 +299,7 @@ p {
   color: white;
 }
 
-.work2-content > h2 {
+.work2-content > h3 {
   display: none;
 }
 
@@ -316,23 +316,44 @@ p {
 }
 
 .work2-content ul {
-  display: flex;
+  /* display: flex;
   gap: 12px;
-  list-style-type: none;
+  list-style-type: none; */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px;
+  gap: 12px;
+  width: 247px;
+  height: 40px;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
 }
 
 .work2-content li {
-  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 10px;
+  width: 67px;
+  height: 30px;
+  background: rgba(255, 255, 255, 0.24);
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  border: none;
 }
 
-.work2-content ul li a {
+.work2-content ul li {
   text-decoration: none;
   color: white;
-  padding: 12px;
+  padding: 8px;
   border: 1px solid black;
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 15px;
   line-height: 20px;
   background-color: #ffffff3d;
@@ -361,11 +382,6 @@ p {
 }
 
 .about-me-section {
-  margin-top: 120px;
-  background-color: #1c1a19;
-}
-
-.about-me-1 {
   background: url(./svg/illustration-about-me-mobile.svg);
   background-color: #1c1a19;
   background-position: right 0 top 400px;
@@ -375,6 +391,7 @@ p {
   justify-content: space-between;
   gap: 211px;
   margin: auto;
+  margin-top: 120px;
 }
 
 .about-me1-content {
@@ -383,6 +400,7 @@ p {
   gap: 24px;
   width: 327px;
   align-self: center;
+  margin-left: 50px;
 }
 
 .about-me1-content > h1 {
@@ -437,12 +455,12 @@ p {
   border: 1px solid white;
   margin-left: 24px;
   margin-right: 24px;
-  margin-top: 40px;
+  margin-top: -30px;
 }
 
 .about-me-2 {
   width: 327px;
-  margin-top: 70px;
+  margin-top: -100px;
   background-color: #1c1a19;
   display: grid;
   justify-content: center;
@@ -475,27 +493,6 @@ p {
   margin-left: 90px;
 }
 
-.about-me-2 .topic3 > img {
-  width: 18px;
-  height: 18px;
-  background: #ff6b00;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-  align-items: center;
-  margin-left: 120px;
-  border-radius: 150px;
-}
-
-/* .about-me-2 .grid2 > img {
-  width: 18px;
-  height: 18px;
-  background: #ff6b00;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-} */
-
 .discussion {
   padding: 0;
   display: flex;
@@ -518,23 +515,7 @@ p {
   margin-top: 10px;
   margin-left: 20px;
   align-items: center;
-}
-
-.about-me-2 .topic3 > p {
-  width: 115px;
-  height: 24px;
-  font-family: 'Inter', serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 44px;
-  margin-left: 156px;
-  display: flex;
-  align-items: center;
-  color: #fff;
-  flex: none;
-  order: 1;
-  flex-grow: 0;
+  display: block;
 }
 
 .about-me-2 ul li > a {

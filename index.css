@@ -190,11 +190,11 @@ body {
 }
 
 .about-me-background {
-  background-image: url(./svg/illustration-about-me-desktop.svg);
-  width: 555px;
+  background-image: url(./svg/illustration-about-me-mobile);
+  /* background-image: url(./svg/header-desktop.svg); */
   background-repeat: no-repeat;
   background-position: right;
-}
+  position: absolute;
 
 .about-me1-content {
   max-width: 566px;
@@ -208,8 +208,8 @@ body {
 .about-me1-separation {
   margin-right: 142px;
   margin-left: 142px;
+  
 }
-
 /* About me 2 */
 
 .about-me-2 {
