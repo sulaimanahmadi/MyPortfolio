@@ -530,7 +530,22 @@ p {
   display: flex;
   flex-direction: column;
   margin: auto;
-  text-align: center;
+  align-items: center;
+  padding: 0px;
+  gap: 24px;
+width: 327px;
+height: 330px;
+  /* display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+width: 327px;
+height: 330px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 50px; */
 }
 
 .form-grid > h2 {
@@ -549,10 +564,23 @@ p {
   flex: none;
   order: 0;
   flex-grow: 0;
+  /* width: 327px;
+height: 216px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+text-align: center;
+color: #172B4D;
+flex: none;
+order: 0;
+flex-grow: 0; */
+
 }
 
 .form-grid > h2:hover {
-  transform: translate(10%);
+  transform: translate(5%);
 }
 
 .inputs {
@@ -658,4 +686,6 @@ p {
   border: 5px solid #0d151e;
   border-radius: 10px;
   margin: 0 121px 8px 120px;
+
+  
 }
