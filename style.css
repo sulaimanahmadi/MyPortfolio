@@ -526,12 +526,6 @@ p {
   text-decoration: none;
 }
 
-.form-section {
-  display: flex;
-  flex-direction: column;
-  margin: auto;
-  text-align: center;
-}
 
 .form-grid > h2 {
   margin: 120px 24px 73px 54px;
