@@ -384,10 +384,6 @@ body {
   margin-top: 0;
 }
 
-.inputa {
-  display: flex;
-}
-
 .input1 {
   display: flex;
   flex-direction: column;
@@ -396,15 +392,9 @@ body {
 .separator1 {
   border: 1px solid #dbd8d7;
   width: auto;
-  max-width: 298px;
-}
-
-.separator3 {
-  border: 1px solid #dbd8d7;
-  width: auto;
-  max-width: 630px;
-  margin-left: 23px;
+  max-width: 530px;
   margin-top: 10px;
+  margin-left: 20px;
 }
 
 .sm-two {
