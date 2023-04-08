@@ -132,6 +132,7 @@ body {
   order: 0;
   flex-grow: 0;
 }
+
 .work-placeholder:hover {
   transform: scale(1.05);
 }
