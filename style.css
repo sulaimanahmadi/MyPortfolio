@@ -562,6 +562,10 @@ p {
   flex-grow: 0;
 }
 
+.form-grid > h2:hover {
+  transform: translate(8%);
+}
+
 .inputs {
   display: flex;
   flex-direction: column;
