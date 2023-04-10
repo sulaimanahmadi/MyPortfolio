@@ -133,6 +133,10 @@ body {
   flex-grow: 0;
 }
 
+.work-placeholder:hover {
+  transform: scale(1.05);
+}
+
 .work1-visual {
   display: flex;
   flex-direction: row;
