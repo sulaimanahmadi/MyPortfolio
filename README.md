@@ -120,6 +120,7 @@ Example command:
 ### Deployment
 
 - GitHub pages
+https://sulaimanahmadi.github.io/MyPortfolio/
 
 <!--
 Example:
