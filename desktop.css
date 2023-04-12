@@ -19,6 +19,7 @@ body {
 .main {
   background-image: none;
   height: 980px;
+  width: 104%;
 }
 
 .background-adjust {
@@ -346,8 +347,7 @@ body {
 
 .discussion {
   justify-content: left;
-  align-items: flex-start;
-  margin-left: 100px;
+  align-items: center;
 }
 
 .form-grid {
