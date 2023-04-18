@@ -725,7 +725,3 @@ p {
   border: 5px solid #0d151e;
   border-radius: 5px;
 }
-
-.input1 > label {
-  display: none;
-}
