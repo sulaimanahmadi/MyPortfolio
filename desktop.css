@@ -451,3 +451,10 @@ nav {
   margin-bottom: 24px;
   border-color: #dfe1e6;
 }
+
+.pop-up-image {
+  margin-top: 0;
+  margin-bottom: 15px;
+  height: 350px;
+  width: 650px;
+}
