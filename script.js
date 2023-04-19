@@ -30,3 +30,4 @@ window.addEventListener('DOMContentLoaded', () => {
   document.querySelector('.about').addEventListener('click', aboutSection);
   document.querySelector('.contact').addEventListener('click', contactSection);
 });
+
