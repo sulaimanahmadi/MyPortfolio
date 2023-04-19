@@ -725,3 +725,10 @@ p {
   border: 5px solid #0d151e;
   border-radius: 5px;
 }
+
+.popUp {
+  position: fixed;
+  top: 0;
+  background-color: white;
+  padding: 24px;
+}
