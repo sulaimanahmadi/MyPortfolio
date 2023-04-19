@@ -725,6 +725,7 @@ p {
   border: 5px solid #0d151e;
   border-radius: 5px;
 }
+
 /* Mobile Popup */
 
 .popUp {
@@ -809,7 +810,6 @@ p {
 
 .pop-up-buttons {
   display: flex;
-  margin-top: 12px;
   max-width: 311px;
   justify-content: left;
   gap: 19px;
