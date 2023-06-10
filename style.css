@@ -752,12 +752,12 @@ p {
 }
 
 .pop-up-h1 {
-  width: 300px;
+  width: 350px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 20;
   font-size: 25px;
-  line-height: 44px;
+  line-height: 34px;
   color: #172b4d;
   margin: 0;
   margin-left: 30px;
@@ -865,7 +865,7 @@ p {
 
 .A {
   display: flex;
-  justify-content: center;
+  justify-content:center;
 }
 
 .pop-up-button1 {

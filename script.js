@@ -202,6 +202,7 @@ const showWorkPopup = (index) => {
   // Show
   show(sectionPopup);
 };
+
 // dynamic content
 
 projects.forEach((card, index) => {
